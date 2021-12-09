@@ -1,0 +1,13 @@
+{
+  "name": "dinosaur-jobs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "listings.js",
+  "scripts": {
+    "test": "npx cypress run --browser chrome"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^1.4.1"
+  }
+}
